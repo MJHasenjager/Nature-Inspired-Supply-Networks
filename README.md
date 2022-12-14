@@ -1,6 +1,6 @@
 # Nature-Inspired-Supply-Networks
 
-Code to simulate supply networks. This code is associated with a submitted manuscript and may therefore undergo changes based on reviewer comments. In addition, the manuscript deals with only a portion of the code capability. Most notably, the code includes functionality to allow certain nodes to join together in temporary coalitions. Future planned manuscripts will address these capabilities. 
+R code to simulate supply networks. This code is associated with a submitted manuscript and may therefore undergo changes based on reviewer comments. In addition, the manuscript deals with only a portion of the code capability. Most notably, the code includes functionality to allow certain nodes to join together in temporary coalitions. Future planned manuscripts will address these capabilities. 
 
 File descriptions:
 
